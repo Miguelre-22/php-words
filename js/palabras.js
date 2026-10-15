@@ -34,5 +34,8 @@ const PALABRAS = [
   { palabra: "use", categoria: "otros", descripcion: "Importa un namespace, clase o trait." },
   { palabra: "require", categoria: "otros", descripcion: "Incluye un archivo y detiene el script si no existe." },
   { palabra: "include", categoria: "otros", descripcion: "Incluye un archivo y solo avisa si no existe." },
-  { palabra: "const", categoria: "otros", descripcion: "Define una constante cuyo valor no cambia." }
+  { palabra: "const", categoria: "otros", descripcion: "Define una constante cuyo valor no cambia." },
+  { palabra: "do", categoria: "control", descripcion: "Ejecuta un bloque al menos una vez y lo repite mientras la condición sea verdadera." },
+  { palabra: "clone", categoria: "clases", descripcion: "Crea una copia de un objeto existente." },
+  { palabra: "global", categoria: "otros", descripcion: "Permite usar dentro de una función una variable definida fuera de ella." }
 ];
