@@ -4,4 +4,6 @@ Aplicación web estática que muestra las palabras reservadas de PHP en tarjetas
 
 ## Cómo ejecutar
 
-Pendiente de documentar.
+Abrir index.html en el navegador (doble clic).
+
+Requiere un navegador moderno.
