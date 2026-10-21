@@ -7,3 +7,7 @@ Aplicación web estática que muestra las palabras reservadas de PHP en tarjetas
 Abrir index.html en el navegador (doble clic).
 
 Requiere un navegador moderno.
+
+## Autoría
+
+Miguel Re Ibarra
