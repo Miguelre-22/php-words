@@ -37,5 +37,10 @@ const PALABRAS = [
   { palabra: "const", categoria: "otros", descripcion: "Define una constante cuyo valor no cambia." },
   { palabra: "do", categoria: "control", descripcion: "Ejecuta un bloque al menos una vez y lo repite mientras la condición sea verdadera." },
   { palabra: "clone", categoria: "clases", descripcion: "Crea una copia de un objeto existente." },
-  { palabra: "global", categoria: "otros", descripcion: "Permite usar dentro de una función una variable definida fuera de ella." }
+  { palabra: "global", categoria: "otros", descripcion: "Permite usar dentro de una función una variable definida fuera de ella." },
+  { palabra: "enum", categoria: "clases", descripcion: "Declara una enumeración con un conjunto cerrado de valores posibles (PHP 8.1)." },
+  { palabra: "readonly", categoria: "clases", descripcion: "Propiedad que solo puede asignarse una vez y después no cambia (PHP 8.1)." },
+  { palabra: "final", categoria: "clases", descripcion: "Impide que una clase se herede o que un método se sobrescriba." },
+  { palabra: "instanceof", categoria: "clases", descripcion: "Comprueba si un objeto pertenece a una clase o implementa una interfaz." },
+  { palabra: "default", categoria: "control", descripcion: "Caso que se ejecuta en un switch o match cuando ningún otro coincide." }
 ];
